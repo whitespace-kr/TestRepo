@@ -18,6 +18,7 @@ let people: [SelfIntroduction] = [
         sns: nil,
         etc: "열심히 수료!",
         job: "배달의민족 - iOS 개발자"
+        job: "다음 - iOS 개발자"
     ),
     SelfIntroduction(
         name: "이준석",
